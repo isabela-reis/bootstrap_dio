@@ -1,0 +1,37 @@
+
+body{
+font:20px Arial, sans-serif;
+}
+.navbar {
+    background-color: #75CDD6 ;
+    padding-left: 160px;
+    padding-right: 160px;
+}
+.quem-somos{
+    background-color:#5F9BF8  ;
+    color:white;
+    padding-top: 8%;
+}
+.margin{
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+.parceiros{
+    background-color:#75CDD6 ;
+    color: #707070  ;
+    font:20 px Arial, sans-serif;
+    padding-left: 160px;
+    padding-right: 160px;
+}
+.servicos{
+    background-color: #A2B9B8;
+    color: white;
+    font:20 px Arial, sans-serif;
+    padding-left: 160px;
+    padding-right: 160px;
+}
+.bg-footer{
+    background-color: black;
+    color: white;
+    padding-top: 5%;
+}
